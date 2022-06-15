@@ -1,9 +1,9 @@
 ## 🤘 Eu sou **Rodrigo Pedro** 🤘 
 ### 👔 Carreira 👔
-- 📅 21 anos
+- 📅 22 anos
 - 🎓 Cursando Sistemas de Informação no CEFET *(3/9)*
 - 📱 Android developer at BRQ 
-- 🕒 1 ano de experiência 
+- 🕒 1 ano e meio de experiência 
 
 ### 📚 Conhecimentos 📚
 - Android Development
