@@ -1,16 +1,29 @@
-### Hi there 👋
+## 🤘 Eu sou **Rodrigo Pedro** 🤘 
+### 👔 Carreira 👔
+- 📅 23 anos
+- 🎓 Cursando Sistemas de Informação *(3/9)*
+- 📱 Senior Android developer at BRQ
+- 🕒 5 anos e meio de experiência 
 
-<!--
-**rodrigopedro81/rodrigopedro81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Conhecimentos 📚
+- Android Development
+- Backend Development (Kotlin Spring Boot)
+- Jetpack Compose
+- Kotlin
+- Java
+- MVVM
+- Firebase
+- Retrofit
+- Material Design
+- Scrum/Kanban
+- Testes unitários
 
-Here are some ideas to get you started:
+### 🥚 Easter Eggs 🥚
+- 🎮 Viciado em Warzone e Fifa
+- 🎖️ Ex-Militar da Força Aérea Brasileira
+- 👹 Apaixonado por HQ's de horror
+- 🎲 Amante de Boardgames modernos "Vamos jogar tiranos?"
+- 🧙‍♂️ Sempre sou mago nos Rpg's de mesa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚩 Links 🚩
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigopedro81/)
