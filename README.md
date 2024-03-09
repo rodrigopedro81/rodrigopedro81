@@ -17,6 +17,9 @@
 - Material Design
 - Scrum/Kanban
 - Testes unitários
+- Testes de UI
+- Acessibilidade
+- AWS
 
 ### 🥚 Easter Eggs 🥚
 - 🎮 Viciado em Warzone e Fifa
